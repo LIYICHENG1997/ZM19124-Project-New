@@ -3,5 +3,5 @@ function txtchange1() {
 }
 
 function imgchange1() {
-  document.getElementById('logo').src = './TERUMI.JPG';
+  document.getElementById('logo').src = '/TERUMI.JPG';
 }
