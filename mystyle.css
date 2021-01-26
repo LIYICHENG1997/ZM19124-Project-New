@@ -1,0 +1,7 @@
+<!-- h1 { color: blue; } -->
+h1 { color: #F0A050; }
+th, td { border: dashed thick black; }
+th.important { color: rgba(208, 255, 0, 0.349); }
+p.sample1 {border: double 10px #c4e414e0;}
+p.sample2 {border: inset 10px greenyellow;}
+p.sample3 {margin: 30px 30px;padding: 10px;border:medium solid rgba(95, 176, 223, 0.651);}
