@@ -3,5 +3,5 @@ function ThreeSecChange() {
   
 
 function imgchange12() {
-  document.getElementById('logo2').src = '/morning.jpg';
+  document.getElementById('logo2').src = 'morning.jpg';
 }
